@@ -1,0 +1,279 @@
+{
+  "heading": "Comparing and Ordering Numbers",
+  "topics": [
+    {
+      "heading": "Comparing and Ordering Numbers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Charles is comparing the tracking numbers 329 and 347 to prioritize shipments. Which words make this statement true?<br> 329 ______ 347.",
+          "options": [
+            { "text": "is greater than" },
+            { "text": "is less than" },
+            { "text": "is equal to" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "Charles checks two orders, both numbered 89,912. Which words make this statement true?<br> 89,912 ______ 89,912.",
+          "options": [
+            { "text": "is greater than" },
+            { "text": "is less than" },
+            { "text": "is equal to" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Charles has two large orders, numbered 154,769 and 154,738. Which words make this statement true?<br> 154,769 ______ 154,738",
+          "options": [
+            { "text": "is greater than" },
+            { "text": "is less than" },
+            { "text": "is equal to" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Charles needs to decide which order to ship first between 401,372 and 401,310. Which words make this statement true?<br> 401,372 ______ 401,310",
+          "options": [
+            { "text": "is greater than" },
+            { "text": "is less than" },
+            { "text": "is equal to" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Charles is comparing orders with tracking numbers 3,123,649 and 3,123,640. Which words make this statement true?<br> 3,123,649 ______ 3,123,640.",
+          "options": [
+            { "text": "is greater than" },
+            { "text": "is less than" },
+            { "text": "is equal to" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "Charles checks two packages, one numbered 89 and the other 96. Which sign makes the statement true?<br> 89 ___ 96",
+          "options": [
+            { "text": ">" },
+            { "text": "<" },
+            { "text": "=" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Charles compares two packages with tracking numbers 657 and 647. Which sign makes the statement true?<br> 558___548",
+          "options": [
+            { "text": ">" },
+            { "text": "<" },
+            { "text": "=" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "Charles reviews two orders 91,002 and 91,003. Which sign makes the statement true?<br> 91,002 ____ 91,003",
+          "options": [
+            { "text": ">" },
+            { "text": "<" },
+            { "text": "=" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Charles checks two identical orders. Which sign makes the statement true?<br> 31,159 ____31,159",
+          "options": [
+            { "text": ">" },
+            { "text": "<" },
+            { "text": "=" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Charles is sorting orders numbered 254,469 and 254,463. Which sign makes the statement true?<br> 254,469 ____ 254,463",
+          "options": [
+            { "text": ">" },
+            { "text": "<" },
+            { "text": "=" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Charles is trying to sort these tracking numbers from smallest to largest:<br><img width='90%' src='./assests/images/1.png'>",
+          "options": [
+            { "text": "23, 89, 45, 67" },
+            { "text": "23, 45, 67, 89" },
+            { "text": "89, 67, 45, 23" },
+            { "text": "45, 23, 67, 89" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Charles has these shipment tracking numbers to sort from largest to smallest. <br><img width='90%' src='./assests/images/2.png'>",
+          "options": [
+            { "text": "345, 678, 123, 456" },
+            { "text": "123, 345, 456, 678" },
+            { "text": "678, 456, 345, 123" },
+            { "text": "456, 123, 678, 345" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "Charles has received these tracking numbers and needs to arrange them from smallest to largest: <br><img width='90%' src='./assests/images/3.png'>",
+          "options": [
+            { "text": "3,214; 4,567; 6,789; 9,012" },
+            { "text": "9,012; 6,789; 4,567; 3,214" },
+            { "text": "4,567; 9,012; 3,214; 6,789" },
+            { "text": "6,789; 3,214; 9,012; 4,567" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Charles needed to sort these numbers from smallest to largest for her shipment: <br><img width='90%' src='./assests/images/4.png'>",
+          "options": [
+            { "text": "234,567; 345,678; 567,890; 789,012" },
+            { "text": "789,012; 567,890; 345,678; 234,567" },
+            { "text": "567,890; 789,012; 234,567; 345,678" },
+            { "text": "345,678; 234,567; 789,012; 567,890" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Charles needs your help in arranging the numbers from largest to smallest:<br><img width='90%' src='./assests/images/5.png'>",
+          "options": [
+            { "text": "345,678; 456,789; 678,901; 789,012" },
+            { "text": "678,901; 789,012; 456,789; 345,678" },
+            { "text": "789,012; 678,901; 456,789; 345,678" },
+            { "text": "456,789; 345,678; 789,012; 678,901" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Charles entered the digits 2, 5, and 8. What is the smallest number he can form?",
+          "options": [
+            { "text": "852" },
+            { "text": "582" },
+            { "text": "258" },
+            { "text": "285" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "Charles has the digits 6, 3, and 4. Which of the following is the greatest number he can form?",
+          "options": [
+            { "text": "346" },
+            { "text": "634" },
+            { "text": "463" },
+            { "text": "643" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 18,
+          "question": "Charles is sorting 7, 2, 5, and 9. What is the smallest number he can form?",
+          "options": [
+            { "text": "2,579" },
+            { "text": "5,297" },
+            { "text": "2,759" },
+            { "text": "9,257" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Charles needs to arrange 3, 8, 1, and 6. What is the greatest number he can form?",
+          "options": [
+            { "text": "6,381" },
+            { "text": "8,631" },
+            { "text": "3,168" },
+            { "text": "8,163" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Charles has the digits 2, 9, 5, 4, and 1. What is the smallest number he can form?",
+          "options": [
+            { "text": "15,429" },
+            { "text": "29,154" },
+            { "text": "54,291" },
+            { "text": "12,459" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 21,
+          "question": "Charles wants to form the greatest number using 7, 3, 6, 1, and 9. What is the greatest number?",
+          "options": [
+            { "text": "17,369" },
+            { "text": "97,631" },
+            { "text": "63,971" },
+            { "text": "76,193" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 22,
+          "question": "Charles is sorting 4, 6, 2, 5, and 1. What is the smallest number he can form?",
+          "options": [
+            { "text": "12,456" },
+            { "text": "14,625" },
+            { "text": "42,156" },
+            { "text": "51,246" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 23,
+          "question": "Charles needs to arrange 8, 2, 1, 9, and 7. What is the greatest number he can form?",
+          "options": [
+            { "text": "97,821" },
+            { "text": "21,798" },
+            { "text": "19,782" },
+            { "text": "98,721" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 24,
+          "question": "Charles has the digits 2, 4, 8, 1, 6, 3, and 7. What is the smallest number he can form?",
+          "options": [
+            { "text": "1,243,678" },
+            { "text": "2,784,631" },
+            { "text": "1,234,678" },
+            { "text": "3,412,678" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 25,
+          "question": "Charles needs to arrange 7, 5, 3, 8, 4, 6, and 2. What is the greatest number he can form?",
+          "options": [
+            { "text": "8,675,432" },
+            { "text": "8,765,432" },
+            { "text": "8,745,632" },
+            { "text": "8,764,532" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+      
+      
+    }
+  ]
+}
